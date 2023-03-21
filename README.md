@@ -18,6 +18,6 @@ An investment company recommends the following:
 
 * At least as much in bank stocks as in tech stocks
 * No more than 80,000 in any stock
-* at least 50,000 in money market (ING)
+* at least 40,000 in money market (ING)
 
-The invesor would like to have an average return of at least 8% but would like to minimize the risk. Given what we know, what would achieve this? 
+The invesor would like to have an average return of at least 6% but would like to minimize the risk. Given what we know, what would achieve this? 
