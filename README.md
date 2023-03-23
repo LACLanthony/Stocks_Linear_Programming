@@ -20,4 +20,4 @@ An investment company recommends the following:
 * No more than 80,000 in any stock
 * at least 40,000 in money market (ING)
 
-The invesor would like to have an average return of at least 6% but would like to minimize the risk. Given what we know, what would achieve this? 
+The investor would like to have an average return of at least 6% but would like to minimize the risk. Given what we know, what would achieve this? 
